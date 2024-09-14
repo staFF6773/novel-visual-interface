@@ -1,2 +1,2 @@
 # novel-visual-interface
-Simple menu for a visual novel using pygame
+Menú simple para una novela visual usando pygame
